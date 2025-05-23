@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dawn</h1>
-<h3 align="center">Game developer & music lover from Vietnam 🇻🇳</h3>
+<h1 align="center">Hi 👋, I'm Hung Vo  (Dawn)</h1>
+<h3 align="center">Game/web developerfrom Vietnam 🇻🇳</h3>
 
 <p align="center">
-  🎓 Graduated in IT from the University of Transport and Communications, HCMC  
+  🎓 Graduated in IT from the University of Transport, HCMC  
   <br>
   💻 Passionate about game dev & web tech  
   <br>
