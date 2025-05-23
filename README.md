@@ -56,5 +56,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="dawnofcd's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dawnofcd&show_icons=true&theme=radical" alt="dawnofcd's GitHub stats"/>
 </p>
