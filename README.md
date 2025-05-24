@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hung Vo  (Dawn)</h1>
-<h3 align="center">Game/web developerfrom VietNam</h3>
+<h3 align="center">Game/web developer from VietNam</h3>
 
 <p align="center">
   🎓 Graduated in IT from the University of Transport, HCMC  
