@@ -58,3 +58,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dawnofcd&show_icons=true&theme=radical" alt="dawnofcd's GitHub stats"/>
 </p>
+![Visitor Count](https://countapi.xyz/hit/dawnofcd/github/profile?style=plastic)
