@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hung Vo  (Dawn)</h1>
-<h3 align="center">Game/web developerfrom Vietnam 🇻🇳</h3>
+<h3 align="center">Game/web developerfrom VietNam</h3>
 
 <p align="center">
   🎓 Graduated in IT from the University of Transport, HCMC  
@@ -58,4 +58,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dawnofcd&show_icons=true&theme=radical" alt="dawnofcd's GitHub stats"/>
 </p>
-![Visitor Count](https://countapi.xyz/hit/dawnofcd/github/profile?style=plastic)
+![Visitor Count](https://countapi.xyz/hit/dawnofcd/github/dawnofcd?style=plastic)
